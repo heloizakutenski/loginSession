@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "login"   : "admin",
+    "senha"   : "admin",
+    "nome"    : "Admin"
+  },
+  {
+    "id": 2,
+    "login"   : "jefferson",
+    "senha"   : "5678",
+    "nome"    : "Jefferson Chaves"
+  },
+  {
+    "id"     :3,
+    "nome"    :"helo",
+    "login"    :"linda",
+  "senha"    :"12345"
+  },
+  {
+    "id"     :4,
+    "nome"    :"gui",
+    "login"    :"boing",
+    "senha"    :"aeiou"
+  }
+
+  ]
